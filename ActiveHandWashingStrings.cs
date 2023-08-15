@@ -26,7 +26,7 @@
         {
             public static class FRONTEND
             {
-                public static class TELEPORTSUITMOD
+                public static class ACTIVEHANDWASHING
                 {
                     public static LocString PRIORIT_VALUE = "Priority value of wash task";
                     public static LocString PRIORITY_CLASS = "Priority class of wash task";
@@ -34,6 +34,7 @@
                     public static LocString WORK_TIME = "Should Duplicants active wash hand at work time";
                     public static LocString SLEEP_TIME = "Should Duplicants active wash hand at sleep time";
                     public static LocString HYGIENE_TIME = "Should Duplicants active wash hand at hygiene time";
+                    public static LocString GERM_COUNT = "When the number of germs exceeds this value, wash hands";
                 }
             }
         }

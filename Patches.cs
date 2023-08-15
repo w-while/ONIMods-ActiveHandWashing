@@ -33,7 +33,7 @@ namespace ActiveHandWashing
                 fn = delegate (ref Chore.Precondition.Context context , object data)
                 {
                     if ((context.consumerState.worker.TryGetComponent(out PrimaryElement
-                element) && element.DiseaseIdx != Klei.SimUtil.DiseaseInfo.Invalid.idx && element.DiseaseCount > 0))
+                element) && element.DiseaseIdx != Klei.SimUtil.DiseaseInfo.Invalid.idx && element.DiseaseCount > Options.Instance.germCount))
                     {
                         return true;
                     }

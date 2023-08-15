@@ -62,6 +62,7 @@
     <None Include="mod.yaml" />
     <None Include="mod_info.yaml" />
     <None Include="packages.config" />
+    <None Include="translations\zh.po" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.3.1\n"
+
+#. ActiveHandWashing.ActiveHandWashingStrings.DUPLICANTS.CHORES.ACTIVEHANDWASHING.NAME
+msgctxt ""
+"ActiveHandWashing.ActiveHandWashingStrings.DUPLICANTS.CHORES."
+"ACTIVEHANDWASHING.NAME"
+msgid "Active Washing Hands"
+msgstr "主动洗手"
+
+#. ActiveHandWashing.ActiveHandWashingStrings.DUPLICANTS.CHORES.ACTIVEHANDWASHING.STATUS
+msgctxt ""
+"ActiveHandWashing.ActiveHandWashingStrings.DUPLICANTS.CHORES."
+"ACTIVEHANDWASHING.STATUS"
+msgid "Going to washing Hands"
+msgstr "正在去洗手"
+
+#. ActiveHandWashing.ActiveHandWashingStrings.DUPLICANTS.CHORES.ACTIVEHANDWASHING.TOOLTIP
+msgctxt ""
+"ActiveHandWashing.ActiveHandWashingStrings.DUPLICANTS.CHORES."
+"ACTIVEHANDWASHING.TOOLTIP"
+msgid ""
+"When duplicants exceed a certain number of germs, actively go to wash hands"
+msgstr "当复制人身上的细菌超过一定数量时，主动去洗手"
+
+#. ActiveHandWashing.ActiveHandWashingStrings.DUPLICANTS.CHORES.PRECONDITIONS.DOES_DUPE_AT_WASH_TIME
+msgctxt ""
+"ActiveHandWashing.ActiveHandWashingStrings.DUPLICANTS.CHORES.PRECONDITIONS."
+"DOES_DUPE_AT_WASH_TIME"
+msgid "It's not time to wash  hands"
+msgstr "现在不是洗手的时间"
+
+#. ActiveHandWashing.ActiveHandWashingStrings.DUPLICANTS.CHORES.PRECONDITIONS.DOES_DUPE_NEED_WASH_HANDS
+msgctxt ""
+"ActiveHandWashing.ActiveHandWashingStrings.DUPLICANTS.CHORES.PRECONDITIONS."
+"DOES_DUPE_NEED_WASH_HANDS"
+msgid "Duplicant no need to wash hands"
+msgstr "复制人不需要洗手"
+
+#. ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.ACTIVEHANDWASHING.GERM_COUNT
+#, fuzzy
+#| msgctxt ""
+#| "ActiveHandWashing.ActiveHandWashingStrings.DUPLICANTS.CHORES."
+#| "ACTIVEHANDWASHING.TOOLTIP"
+#| msgid ""
+#| "When duplicants exceed a certain number of germs, actively go to wash "
+#| "hands"
+msgctxt ""
+"ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.ACTIVEHANDWASHING."
+"GERM_COUNT"
+msgid "When the number of germs exceeds this value, wash hands"
+msgstr "当复制人身上的细菌超过一定数量时，主动去洗手"
+
+#. ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.ACTIVEHANDWASHING.HYGIENE_TIME
+#, fuzzy
+#| msgctxt ""
+#| "ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.TELEPORTSUITMOD."
+#| "HYGIENE_TIME"
+#| msgid "Should Duplicants active wash hand at hygiene time"
+msgctxt ""
+"ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.ACTIVEHANDWASHING."
+"HYGIENE_TIME"
+msgid "Should Duplicants active wash hand at hygiene time"
+msgstr "复制人是否应该在洗浴时间洗手"
+
+#. ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.ACTIVEHANDWASHING.PRIORIT_VALUE
+#, fuzzy
+#| msgctxt ""
+#| "ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.TELEPORTSUITMOD."
+#| "PRIORIT_VALUE"
+#| msgid "Priority value of wash task"
+msgctxt ""
+"ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.ACTIVEHANDWASHING."
+"PRIORIT_VALUE"
+msgid "Priority value of wash task"
+msgstr "主动洗手任务的优先级数值"
+
+#. ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.ACTIVEHANDWASHING.PRIORITY_CLASS
+#, fuzzy
+#| msgctxt ""
+#| "ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.TELEPORTSUITMOD."
+#| "PRIORITY_CLASS"
+#| msgid "Priority class of wash task"
+msgctxt ""
+"ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.ACTIVEHANDWASHING."
+"PRIORITY_CLASS"
+msgid "Priority class of wash task"
+msgstr "主动洗手任务的优先级类别"
+
+#. ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.ACTIVEHANDWASHING.RECREATION_TIME
+#, fuzzy
+#| msgctxt ""
+#| "ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.TELEPORTSUITMOD."
+#| "RECREATION_TIME"
+#| msgid "Should Duplicants active wash hand at recreation time"
+msgctxt ""
+"ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.ACTIVEHANDWASHING."
+"RECREATION_TIME"
+msgid "Should Duplicants active wash hand at recreation time"
+msgstr "复制人是否应该在休息时间洗手"
+
+#. ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.ACTIVEHANDWASHING.SLEEP_TIME
+#, fuzzy
+#| msgctxt ""
+#| "ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.TELEPORTSUITMOD."
+#| "SLEEP_TIME"
+#| msgid "Should Duplicants active wash hand at sleep time"
+msgctxt ""
+"ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.ACTIVEHANDWASHING."
+"SLEEP_TIME"
+msgid "Should Duplicants active wash hand at sleep time"
+msgstr "复制人是否应该在睡觉时间洗手"
+
+#. ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.ACTIVEHANDWASHING.WORK_TIME
+#, fuzzy
+#| msgctxt ""
+#| "ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.TELEPORTSUITMOD."
+#| "WORK_TIME"
+#| msgid "Should Duplicants active wash hand at work time"
+msgctxt ""
+"ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.ACTIVEHANDWASHING."
+"WORK_TIME"
+msgid "Should Duplicants active wash hand at work time"
+msgstr "复制人是否应该在工作时间洗手"
+
+#. STRINGS.UI.FRONTEND.ACTIVEHANDWASHING.GERM_COUNT
+#, fuzzy
+#| msgctxt ""
+#| "ActiveHandWashing.ActiveHandWashingStrings.DUPLICANTS.CHORES."
+#| "ACTIVEHANDWASHING.TOOLTIP"
+#| msgid ""
+#| "When duplicants exceed a certain number of germs, actively go to wash "
+#| "hands"
+msgctxt "STRINGS.UI.FRONTEND.ACTIVEHANDWASHING.GERM_COUNT"
+msgid "When the number of germs exceeds this value, wash hands"
+msgstr "当复制人身上的细菌超过一定数量时，主动去洗手"
+
+#. STRINGS.UI.FRONTEND.ACTIVEHANDWASHING.HYGIENE_TIME
+#, fuzzy
+#| msgctxt ""
+#| "ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.TELEPORTSUITMOD."
+#| "HYGIENE_TIME"
+#| msgid "Should Duplicants active wash hand at hygiene time"
+msgctxt "STRINGS.UI.FRONTEND.ACTIVEHANDWASHING.HYGIENE_TIME"
+msgid "Should Duplicants active wash hand at hygiene time"
+msgstr "复制人是否应该在洗浴时间洗手"
+
+#. STRINGS.UI.FRONTEND.ACTIVEHANDWASHING.PRIORIT_VALUE
+#, fuzzy
+#| msgctxt ""
+#| "ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.TELEPORTSUITMOD."
+#| "PRIORIT_VALUE"
+#| msgid "Priority value of wash task"
+msgctxt "STRINGS.UI.FRONTEND.ACTIVEHANDWASHING.PRIORIT_VALUE"
+msgid "Priority value of wash task"
+msgstr "主动洗手任务的优先级数值"
+
+#. STRINGS.UI.FRONTEND.ACTIVEHANDWASHING.PRIORITY_CLASS
+#, fuzzy
+#| msgctxt ""
+#| "ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.TELEPORTSUITMOD."
+#| "PRIORITY_CLASS"
+#| msgid "Priority class of wash task"
+msgctxt "STRINGS.UI.FRONTEND.ACTIVEHANDWASHING.PRIORITY_CLASS"
+msgid "Priority class of wash task"
+msgstr "主动洗手任务的优先级类别"
+
+#. STRINGS.UI.FRONTEND.ACTIVEHANDWASHING.RECREATION_TIME
+#, fuzzy
+#| msgctxt ""
+#| "ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.TELEPORTSUITMOD."
+#| "RECREATION_TIME"
+#| msgid "Should Duplicants active wash hand at recreation time"
+msgctxt "STRINGS.UI.FRONTEND.ACTIVEHANDWASHING.RECREATION_TIME"
+msgid "Should Duplicants active wash hand at recreation time"
+msgstr "复制人是否应该在休息时间洗手"
+
+#. STRINGS.UI.FRONTEND.ACTIVEHANDWASHING.SLEEP_TIME
+#, fuzzy
+#| msgctxt ""
+#| "ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.TELEPORTSUITMOD."
+#| "SLEEP_TIME"
+#| msgid "Should Duplicants active wash hand at sleep time"
+msgctxt "STRINGS.UI.FRONTEND.ACTIVEHANDWASHING.SLEEP_TIME"
+msgid "Should Duplicants active wash hand at sleep time"
+msgstr "复制人是否应该在睡觉时间洗手"
+
+#. STRINGS.UI.FRONTEND.ACTIVEHANDWASHING.WORK_TIME
+#, fuzzy
+#| msgctxt ""
+#| "ActiveHandWashing.ActiveHandWashingStrings.UI.FRONTEND.TELEPORTSUITMOD."
+#| "WORK_TIME"
+#| msgid "Should Duplicants active wash hand at work time"
+msgctxt "STRINGS.UI.FRONTEND.ACTIVEHANDWASHING.WORK_TIME"
+msgid "Should Duplicants active wash hand at work time"
+msgstr "复制人是否应该在工作时间洗手"
+
+#~ msgctxt "STRINGS.UI.FRONTEND.TELEPORTSUITMOD.HYGIENE_TIME"
+#~ msgid "Should Duplicants active wash hand at hygiene time"
+#~ msgstr "复制人是否应该在洗浴时间洗手"
+
+#~ msgctxt "STRINGS.UI.FRONTEND.TELEPORTSUITMOD.PRIORIT_VALUE"
+#~ msgid "Priority value of wash task"
+#~ msgstr "主动洗手任务的优先级数值"
+
+#~ msgctxt "STRINGS.UI.FRONTEND.TELEPORTSUITMOD.PRIORITY_CLASS"
+#~ msgid "Priority class of wash task"
+#~ msgstr "主动洗手任务的优先级类别"
+
+#~ msgctxt "STRINGS.UI.FRONTEND.TELEPORTSUITMOD.RECREATION_TIME"
+#~ msgid "Should Duplicants active wash hand at recreation time"
+#~ msgstr "复制人是否应该在休息时间洗手"
+
+#~ msgctxt "STRINGS.UI.FRONTEND.TELEPORTSUITMOD.SLEEP_TIME"
+#~ msgid "Should Duplicants active wash hand at sleep time"
+#~ msgstr "复制人是否应该在睡觉时间洗手"
+
+#~ msgctxt "STRINGS.UI.FRONTEND.TELEPORTSUITMOD.WORK_TIME"
+#~ msgid "Should Duplicants active wash hand at work time"
+#~ msgstr "复制人是否应该在工作时间洗手"

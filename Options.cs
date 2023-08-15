@@ -37,11 +37,15 @@ namespace ActiveHandWashing
         {
             get; set;
         }
+        [Option("STRINGS.UI.FRONTEND.ACTIVEHANDWASHING.GERM_COUNT" , "" , null)]
+        [JsonProperty]
+        [Limit(1 , 99999)]
+        public int germCount { get; set; } = 1;
 
         [Option("STRINGS.UI.FRONTEND.ACTIVEHANDWASHING.PRIORIT_VALUE" , "" , null)]
         [JsonProperty]
         [Limit(1 , 9)]
-        public int prioritValue { get; set; } = 4;
+        public int prioritValue { get; set; } = 6;
 
         [Option("STRINGS.UI.FRONTEND.ACTIVEHANDWASHING.PRIORITY_CLASS" , "" , null)]
         [JsonProperty]
